@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="30px" viewBox="0 0 34 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements/Heart" transform="translate(-1.000000, -1.000000)" fill="#FF0040" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+            <path d="M17.4599747,29.7666667 L4.63558591,17.0888889 C4.08986724,16.5833333 3.66108829,16 3.27128924,15.3777778 C1.16637436,11.9166667 1.71209303,7.48333333 4.63558591,4.60555556 C6.31172183,2.93333333 8.57255633,2 10.9503305,2 C14.6924014,2 17.0311957,4.17777778 18.0056934,5.42222222 C18.980191,4.17777778 21.3189853,2 25.0610562,2 C27.4388304,2 29.6996649,2.93333333 31.3758008,4.60555556 C34.2603138,7.48333333 34.8450124,11.9166667 32.7400975,15.3777778 C32.3502984,16 31.9215195,16.5833333 31.3758008,17.0888889 L18.551412,29.7666667 C18.2395728,30.0777778 17.7718139,30.0777778 17.4599747,29.7666667 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
