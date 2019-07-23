@@ -160,6 +160,7 @@ const emailsEditor = (root, options) => {
       referrer: 'no-referrer'
     });
     const res = await jsonListPromise.json();
+    console.log(res.emails[randomNum])
     addEmail(res.emails[randomNum]);
   };
 
